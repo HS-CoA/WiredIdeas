@@ -1,3 +1,4 @@
+#最大静摩擦 绘制编写
 #尺规绘图法参考B站视频BV1tv411H7iT，up主是SuperSodaSea
 library(tidyverse)
 library(ggplot2)
